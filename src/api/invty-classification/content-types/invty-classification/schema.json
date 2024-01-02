@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "invty_classifications",
+  "info": {
+    "singularName": "invty-classification",
+    "pluralName": "invty-classifications",
+    "displayName": "InvtyClassification"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "classificationName": {
+      "type": "string"
+    },
+    "classificationDescription": {
+      "type": "blocks"
+    }
+  }
+}

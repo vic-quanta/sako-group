@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "invty_categories",
+  "info": {
+    "singularName": "invty-category",
+    "pluralName": "invty-categories",
+    "displayName": "InvtyCategory"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "classificationName": {
+      "type": "string"
+    }
+  }
+}
